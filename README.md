@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mechatronics Engineer
 
-<!--
-**Logiquell/Logiquell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. in Mechatronics Engineering with a background in mechanical maintenance, industrial equipment and electromechanical systems.
 
-Here are some ideas to get you started:
+I develop embedded hardware projects combining microcontrollers, sensors, electronics and mechanical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Embedded systems and microcontrollers
+- Electronics and PCB prototyping
+- Sensors, data acquisition and control systems
+- Mechanical design and automation
+- Testing, troubleshooting and experimental development
+
+### Current Projects
+- **Automatic Toe-In Alignment:** ESP32-based automated wheel alignment using infrared sensors and servo control.
+- **ESP32 Smartwatch:** Custom firmware using ESP-IDF, LVGL and power management.
+- **Fallskynjari:** PIC-based fall detection and environmental data logging.
+
+### Technologies
+ESP32 · PIC Microcontrollers · C/C++ · Python · ESP-IDF · I²C · SPI · UART · Autodesk Inventor
+
+### Development Approach
+My projects focus on practical hardware integration, iterative testing and understanding how mechanical, electrical and software systems work together.
+
+I use AI-assisted development tools to support programming, debugging and documentation.
